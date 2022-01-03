@@ -1,0 +1,195 @@
+Hideous Destructor
+Guns
+REV Revolver
+THU Thunder Buster
+VUL Vulcanette
+BFG BFG 9000
+PIS Pistol
+SMG Sexy Manly Guy
+Z66 ZM66 Assault Rifle
+SLA Slayer
+HUN Hunter
+BRO Brontornis Cannon
+LIB Liberator Battle Rifle
+BOS Boss Rifle
+BLO Grenade Launcher
+LAU Rocket Launcher
+
+Melee
+FIS Fists
+SAW Chainsaw
+
+KEY
+MAP
+MED
+2FL Second Flesh Applicator
+STM Stimpack
+ZRK Berserk Pack
+BLD Synthetic/Second Blood
+AWB Battle Armour
+AWG Garrison Armour
+RAD Environment Suit
+LIT Light Amplification Visor
+IED IED Kit
+LAD Portable Ladder
+BAK Backpack
+
+Ammo
+9MM Round
+915 9mm Pistol Magazine
+930 9mm SMG Magazine
+SHL Shotgun Shells
+4MM 4.26mm UAC Standard Round
+450 4.26mm UAC Standard Magazine
+7MM 7.76mm Round
+730 7.76mm Magazine
+710 7.76mm Clip
+7BR 7.76mm Casing
+RKT Rocket Grenade
+RKH H.E.A.T. rocket
+BRB Be Right Back/Brontornis Shell
+355 round
+
+FRG Fragmentation Grenades
+BAT Battery
+7RL 7.76mm Reloading Device
+DRP D.E.R.P. Robot
+HRP H.E.R.P. Robot
+DBS Door Buster
+SOL Elite Soldier Kit
+ARB Battle Armour(Spare)
+ARG Garrison Armour(Spare)
+JET pack
+
+Ugly As Sin
+TRK Trauma Kit
+LLM Light/Laser Module
+
+2FM Auto-Suture Cartridge
+APO Ammo Pouch
+APK Assault Pack
+CSM Random Food or drink item
+FRT Random Food item
+WRT Random drink item
+GLS Glowstick
+FLR Flare
+RSP Emergency Respirator
+STB Gyroscopic Stabilizer
+SLG Weapon Sling
+
+Powersuit
+PST Powersuit Beacon
+PW3 "Athena" light cannon
+PW2 ZMG33 LMG
+PW4 "Jackripper" MG
+PW1 "Calinicus" AGL
+PW0 "Leonidas" LMG
+
+Deployable Barricade
+DAB Deployable Barricade
+
+Merchant
+BUX Bucks/Money
+
+Magazine Reloader
+MRL Magazine Reloading Device
+
+Hacked Reloader
+7HR 7.76mm Hacked Reloading Device
+
+Rearview Mirror
+RVM Rearview Mirror
+
+Ladder Launcher
+LLC Ladder Launcher
+
+Teleporter
+PTP Portable Teleporter
+
+Supply Beacon
+SPB Supply Beacon
+
+HexaDoken's M1 Garand
+GAR M1 Garand
+
+GAC M1 Garand Clip
+306 .30-06 round
+GBX Reusable .30-06 ammo box
+
+MR M16
+M16 M16 Brutal Doom Assault Rifle
+
+56A 56x45mm BALL M193
+C16 M16 Magazine
+
+Arcanum
+ARC Arcanum Tome
+
+HD Bullet Lib
+50R .50 AE round
+SLU Shotgun Slugs
+5SW .500 S&W Light
+5LD .500 S&W Heavy
+OMG .50 OMG round
+45C .45 ACP round
+
+RRRR Weapons
+BRR Brontornis Cannon W/Bolt Rack
+RPZ Reaper Automatic Shotgun W/UnderBarrel Carbine
+RPG Reaper Automatic Shotgun W/Grenade Launcher
+RPR Reaper Automatic Shotgun
+TMP Thompson Submachine Gun(9mm Repro)
+
+TDM Thompson Drum
+RDM Reaper Drum
+RSM Reaper Magazine
+
+Potetobloke's Weapon Pack
+by Potetobloke; currently maintained by Mohl
+Guns
+HWZ MS-AT 35mm "Kelenken"
+CAC Berlinghoff XM135 "Devincenzia"
+FXT Fire Extinguisher
+SMR H&M HS776 SmartGun
+RPO Renov OTRU-92
+CGM DLAaM APGM-35
+AT4 RAT-84
+M2H Brownell AM-HMG50 "MKII Stinger"
+LR1 Sawyer LR37 "Big Boy" Hunting Carbine
+C9N Aralite M36A1 HPC
+URA Arkoudi M12/5 Shotgun
+PS2 PlayStation 2/Denton Light Arms and Munitions PS-451
+FAL Chives Herstal AL72 "Defender"
+G1S G26SD Marksman Rifle (Scoped, Burst Only)
+G11 G26A1 Combat Rifle
+M11 Raycob RAC-13/9 Machine Pistol
+SWG Raycob Urban Destroyer
+TRS Raycob Exterminator
+R2G Buger M22 Target Rifle
+A18 Arkoudi M5/165c
+5PS SP-50 Auto Mag (Mega Class)
+KRN Replica Kharon
+
+Melee
+KNF Combat Knife
+SLH Sledgehammer
+AXE Fire Axe
+SHD Ballistic Shield
+
+Ammo
+5AM .50 Action Mega
+5MG .50 AM Magazine
+5MR 5x12MM BumbleBee Rimfire
+AMG M5/165C Drum
+R2M Buger M22 Magazine
+G1M G26A1 Magazine
+FDM AL72 100 Round Drum Magazine
+C9M M35A1 HPC Magazine
+5BX .50 OMG Ammo Box
+7BX 7.76mm MG Box
+TGG Toxic Gas Grenades
+CM5 XM135 "Devincenzia" Magazine
+HWB 35MM Bolt Box
+
+???????
+UNM FATAL ERROR
