@@ -57,6 +57,7 @@ DRP D.E.R.P. Robot
 HRP H.E.R.P. Robot
 DBS Door Buster
 SOL Elite Soldier Kit
+??? Insurgent Loadout
 ARB Battle Armour(Spare)
 ARG Garrison Armour(Spare)
 JET pack
@@ -149,7 +150,6 @@ by Potetobloke; currently maintained by Mohl
 Guns
 HWZ MS-AT 35mm "Kelenken"
 CAC Berlinghoff XM135 "Devincenzia"
-FXT Fire Extinguisher
 SMR H&M HS776 SmartGun
 RPO Renov OTRU-92
 CGM DLAaM APGM-35
@@ -175,6 +175,7 @@ KNF Combat Knife
 SLH Sledgehammer
 AXE Fire Axe
 SHD Ballistic Shield
+FXT Fire Extinguisher
 
 Ammo
 5AM .50 Action Mega
