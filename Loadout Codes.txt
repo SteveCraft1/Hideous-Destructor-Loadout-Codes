@@ -42,6 +42,7 @@ SHL Shotgun Shells
 4MM 4.26mm UAC Standard Round
 450 4.26mm UAC Standard Magazine
 7MM 7.76mm Round
+7MR 7.76mm Round (Recast)
 730 7.76mm Magazine
 710 7.76mm Clip
 7BR 7.76mm Casing
