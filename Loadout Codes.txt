@@ -193,5 +193,62 @@ TGG Toxic Gas Grenades
 CM5 XM135 "Devincenzia" Magazine
 HWB 35MM Bolt Box
 
+SoSA45A1V2
+S45 NORA .45 Revision 1
+M45 SoSA45A1 Magazine
+
+AKM AKM assault rifle
+AMA AKM magazine
+739 7.62x39mm round
+
+sti STI Eagle 6.0
+
+Dimensional Storage Device
+DSD Dimensional Storage Device
+
+Universal Reloader
+URL Universal Reloading Device
+
+Gunsmith Pouch
+GSP Gunsmith's Pouch
+
+5mm Suppressed
+22S 5mm Suppressed
+22M 5mm Suppressed Magazine
+
+AKM's a1337spy
+AKM Assault Rifle
+AMA AKM Magazine
+739 7.62x39mm Round
+
+No Scope Boss HexaDoken
+NSB Scopeless Boss Rifle
+
+Field Assembly Kit
+FAK Field Assembly Kit
+
+Pocket Radio
+PRD Pocket Radio
+
+SupportRadio
+WTK Support Radio
+
+Hideous Helmet
+HDH HUD Helmet(Spare)
+HHW HUD Helmet
+
+Booster Jets
+BSJ Booster Jets
+
+Benitez Clance
+REN Teleporter Beacon (Clance)
+
+Cozis OffWorld Weapons
+MUS Musket
+BAL Lead Ball
+
+S2 Grenade
+PWM -S2 Grenade
+
 ???????
 UNM FATAL ERROR
