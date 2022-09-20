@@ -63,6 +63,28 @@ ARB Battle Armour(Spare)
 ARG Garrison Armour(Spare)
 JET pack
 
+HDBulletLib Recasted
+50r : .50 AE round
+slu : Shotgun slugs
+5sw : .500 S&W light
+5ld : .500 S&W heavy
+omg : .50 OMG round
+45c : .45 ACP round
+10m : 10mm round
+c10 : 10mm casing
+45l : .45LC round
+bal : Lead Ball
+4gs : 4 gauge saboted slug
+lls : less-lethal shells
+xsh : explosive shell
+45g : gold 45. lc round
+fsh : flare shells
+5mr : 5x12mm Bumblebee Rimfire
+6fl : 6x42mm SCF Round
+5am : .50 Action Mega
+4fr : .420 Frei Round
+69b : 69 bore shell
+
 Ugly As Sin
 TRK Trauma Kit
 LLM Light/Laser Module
@@ -249,6 +271,92 @@ BAL Lead Ball
 
 S2 Grenade
 PWM -S2 Grenade
+
+Swampyrad's HDColt1911
+C19 Colt 1911
+CM7 Colt 1911 Magazine
+
+Bryan's weapons
+---------------------------------------------------------------------------------------------------------
+Weapons are configured based on the follow syntax: w## ba# bs# bm#. The values for input are shown below.
+
+w## is the weapon reference number
+ba# is the muzzle attachment reference number
+bs# is the sight attachment reference number
+bm# is the misc. attachment reference number
+---------------------------------------------------------------------------------------------------------
+Weapons
+w01: Glock
+w02: MP5
+w03: M4
+w04: M14
+w05: Fauxtech Origin
+w06: M249
+w07: M4 M203
+w08: MP5 M203
+w09: RPG
+w10: M107
+w11: AKS74u
+w12: AKM
+w13: Uzi
+Magazine
+m01: Glock magazine
+m02: MP5 magazine
+m03: M4 magazine
+m04: M14 magazine
+m05: Fauxtech Origin drum
+m06: M249 pouch
+m10: M107 magazine
+m11: AKS74u magazine
+m12: AKM magazine
+m13: Uzi magazine
+Muzzle IDs
+ba1: 5.56mm suppressor
+ba2: 5.56mm flash suppressor
+ba3: 9mm suppressor
+ba4: 7.62mm suppressor
+ba5: Fauxtech Silencerr
+ba6: Fauxtech Improved Choke
+ba7: Fauxtech Modified Choke
+ba8: Fauxtech Full Choke
+Sight IDs
+bs1: M4 Rear ironsight
+bs2: M4 Carryhandle
+bs3: Fauxtech Origin Diamond Sight
+bs4: ACOG
+bs5: Red dot
+bs6: Holo sight
+bs7: Reflex sight
+bs8: 10x Scope
+Misc IDs
+bm1: Flashlight attachment
+Attachment Loadout IDs
+These are for adding attachments as loose items in your inventory if you plan to switch between multiple sights.
+m4i: M4 default rear sight
+m4c: M4 carryhandle
+dia: Fauxtech diamond sight
+acg: ACOG
+rdt: Red-dot Sight
+hrd: Holo sight
+rfr: Reflex sight
+s10: 10x Sight
+sl5: 5.56 silencer
+sl7: 7.62 silencer
+sl9: 9mm silencer
+slf: Fauxtech Silencer
+ck1: Fauxtech improved choke
+ck2: Fauxtech modified choke
+ck3: Fauxtech full choke
+gfl: Misc flashlight attachment
+Misc Loadout IDs
+r04: M249 pouch reloader
+fhr: F.H. robot
+thp: Tactical H.E.R.P.
+Crafting IDs
+bcr: Ball crafter
+ccr: Case crafter
+asm: Bullet Assembler
+rsm: Rocket Assembler
 
 ???????
 UNM FATAL ERROR
